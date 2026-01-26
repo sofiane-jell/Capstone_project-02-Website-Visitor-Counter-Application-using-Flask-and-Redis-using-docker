@@ -77,7 +77,27 @@ Click <b>Reset Counter</b> to reset the value.
 To stop and remove the containers:
 <img width="1899" height="190" alt="image" src="https://github.com/user-attachments/assets/ba9d626e-e747-4b32-9ab7-825003468971" />
 
+---
+## 💾 Data Persistence
+Redis data is persisted using a Docker named volume, ensuring the visitor count remains intact even after container restarts or shutdowns.
+Setting Up Redis to Save Data with a Volume named in docker-compose.yml:
+```yaml
+volumes:
+  redis-data:
+```
 
+
+
+## 🧠 Key Learning Outcomes
+- Building and containerizing a Flask web application
+
+- Inter-service communication using Docker networking
+
+- Managing persistent state in containerized applications
+
+- Applying REST principles (GET/POST)
+
+- Using Docker Compose for multi-container orchestration
 
 
 
