@@ -1,7 +1,7 @@
 # 🌐 Website Visitor Counter  
 **Flask • Redis • Docker • Docker Compose**
 
-A production-style, containerized web application that tracks website visits using a Flask backend and Redis for persistent storage. This project demonstrates modern backend development practices, microservice communication, Docker-based deployment, and persistent state management.
+A production-style, containerized and deploying a web application that tracks website visits using a Flask backend and Redis for persistent storage. This project demonstrates modern backend development practices, microservice communication, Docker-based deployment, and persistent state management.
 
 ---
 
