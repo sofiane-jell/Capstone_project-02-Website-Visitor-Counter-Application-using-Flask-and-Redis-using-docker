@@ -50,8 +50,8 @@ This project is ideal for **portfolio showcasing and resume demonstration**.
 
 ## 🔹 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/MenaMagdyHalem/Flask-Redis-DockerCompose-App.git
-cd Flask-Redis-DockerCompose-App
+git clone https://github.com/sofiane-jell/Capstone_project-02-Website-Visitor-Counter-Application-using-Flask-and-Redis-using-docker.git
+cd Capstone_project-02-Website-Visitor-Counter-Application-using-Flask-and-Redis-using-docker
 ```
 ## 🔹 Step 2: Build and Start the Application
 ```bash
